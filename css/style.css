@@ -1,0 +1,56 @@
+body{
+    color: #fff;
+    background-color: #000;
+    height: 500px;
+}
+.navbar{
+    border-bottom: 3px solid rgb(93, 93, 206) ;
+
+}
+#home{
+    background: url(../img/wall.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: 900px;
+    margin-top: 20px;
+    padding-top: 150px ;
+}
+#Login{
+    background-image: url(../img/image.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    height: absolute;
+    margin-top: 20px;
+}
+
+#log{
+    color: burlywood;
+    height: 600px;
+    margin-top: 120px;
+}
+#contact{
+    background: url(../img/contact.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+#textbox{
+    margin-bottom: 20px;
+}
+#row1{
+    display: flex;
+    float: left;
+}
+#about{
+    height: absolute;
+    margin-top: 120px;
+    margin-bottom: 120px;
+}
+#slast{
+    display: flex;
+    float: left;
+    margin: 20px;
+}
+#footerbutton{
+    color: whitesmoke;
+}
